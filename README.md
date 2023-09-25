@@ -1,1 +1,1 @@
-# Sensor-IR-con-led-RGB
+2° Actividad del curso de automatizacion de YPF. Estuve como desde las 12:00 hasta las 21:00 porque lo estaba haciendo en el simulador y en fisico al mismo tiempo pero al final en fisico no me salio porque tenia quemado el led rgb :(
